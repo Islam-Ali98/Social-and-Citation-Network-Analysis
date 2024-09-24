@@ -3,7 +3,7 @@ This repository contains the analysis of three types of networks: Facebook (undi
 
 ## Project Overview
 
-###Facebook Network (Undirected Graph):
+### Facebook Network (Undirected Graph):
 
 The Facebook network is modeled as an undirected graph, where edges represent friendships between users.
 Goal: Calculate which users have the most friends (highest degree).
